@@ -1,4 +1,4 @@
-## Welcome to GitHub Pro App
+# Welcome to GitHub Pro App
 
 ![about](https://raw.githubusercontent.com/GitHubProApp/githubproapp.github.io/master/resource/123.png)
 
